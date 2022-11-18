@@ -39,7 +39,7 @@ untuk menginput **Nilai Akhir** yang di ambil dari perhitungan 3 komponen nilai.
     variabel di atas adalah untuk membentuk sebuah table.
     ```
 6. Program input tanya [y/t], apabila jawaban t atau T, maka program inputan dihentikan statement break dan akan menampilkan data yang sudah diinput.
-!Gambar[gambar 1](gambar/ss1.png)
+![Gambar 3](gambar/ss1.png)
 ## Output
 Bila program dijalankan maka hasilnya seperti di bawah.
-!Gambar[gambar 2](gambar/ss2.png)
+![Gambar 3](gambar/ss2.png)
