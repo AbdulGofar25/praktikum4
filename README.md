@@ -43,3 +43,7 @@ untuk menginput **Nilai Akhir** yang di ambil dari perhitungan 3 komponen nilai.
 ## Output
 Bila program dijalankan maka hasilnya seperti di bawah.
 ![Gambar 3](gambar/ss2.png)
+
+
+# FlowChart
+![Gambar 3](gambar/ss3.png)
